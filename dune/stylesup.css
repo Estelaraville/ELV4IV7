@@ -1,0 +1,9 @@
+body{
+    background-image: url("img/dune.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.boton{
+    min-width: 1100px;
+}

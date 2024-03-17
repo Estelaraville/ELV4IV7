@@ -1,0 +1,21 @@
+body{
+    background-image: url(img/plantillaparatodos.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    font-size: medium;
+    font-family:Georgia, 'Times New Roman', Times, serif;  
+    padding-bottom: 4em;
+    min-height: 100vh;
+    position: relative;
+}
+
+.foot{
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    bottom: 0%;
+    position: absolute;
+    font-size:large;
+    width: 99%;
+    padding: 1em 0;
+  }
