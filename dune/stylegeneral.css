@@ -19,3 +19,9 @@ body{
     width: 99%;
     padding: 1em 0;
   }
+
+  .infoautor{
+    color: black;
+    font-size: medium;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
